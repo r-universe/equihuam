@@ -1,4 +1,16 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/equihuam/equihuam.r-universe.dev
 	branch = HEAD
+[submodule "cransays"]
+	path = cransays
+	url = https://github.com/lockedata/cransays
+[submodule "dagitty"]
+	path = dagitty
+	url = https://github.com/jtextor/dagitty
+[submodule "glitter"]
+	path = glitter
+	url = https://github.com/lvaudor/glitter
+[submodule "roblog"]
+	path = roblog
+	url = https://github.com/ropenscilabs/roblog
